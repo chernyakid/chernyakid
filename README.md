@@ -1,11 +1,11 @@
 ## Привет 👋 я Инна Черняк, начинающий аналитик данных!
 
 - 🔭 Сейчас прохожу курс на аналитика данных в Яндекс.Практикуме
-- 🌱 Список уже выполненных проектов описываю [на этой странице](https://github.com/chernyakid/data-analyst-plus)
+- 🌱 Список выполненных проектов можно найти [на этой странице](https://github.com/chernyakid/data-analyst-plus)
 - ⚡ Оттачиваю навыки SQL на sql-ex.ru
 - 👯 Раньше управляла интернет-магазином товаров для творчества и сетью онлайн-витрин с кредитными продуктами
 - 🤔 Высшее образование в области бухгалтерского учета и аудита
 - 💬 Связаться со мной можно в Telegram - [@chernyakid](https://t.me/chernyakid)
 
 ### Мой стек технологий
-`SQL` `Python` `Pandas` `Jupyter Notebook` `Numpy` `Seaborn` `Folium` `Tableau` `Git`
+`SQL` `MS Excel` `Python` `Pandas` `Jupyter Notebook` `Numpy` `Seaborn` `Folium` `Tableau` `Git`
